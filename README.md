@@ -15,8 +15,9 @@ Milestones: Divide your work into parts - the most essential features for your M
 
 ### Essential Features:
 - Google User Auth
-- Send and receive text using a form
-- 
+- Send and receive text messages to users using a form
+
+
 ### Extra Features:
 - Timestamps
 - Sticker and image sending
