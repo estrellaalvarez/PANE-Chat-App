@@ -20,7 +20,7 @@ Milestones: Divide your work into parts - the most essential features for your M
 ### Extra Features:
 - Timestamps
 - Sticker and image sending
-- 
+
 ### Stretch Features: 
 - Group messaging
 - User Blocking
