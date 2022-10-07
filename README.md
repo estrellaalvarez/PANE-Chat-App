@@ -11,18 +11,20 @@ User Stories: Who is your user? What features will your app have?
 
 Data Models: Draw out the models and any associations for your project in an entity relationship diagram (ERD). 
 
-Milestones: Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done. 
+Milestones: Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration.
 
-- Essential Features:
-     -- Google User Auth
-     -- Send and receive text using a form
-- Extra Features
-     -- Timestamps
-     -- Sticker and image sending
-- Stretch Features
-     -- Group messaging
-     -- User Blocking
-     -- React to a message using emojis
+### Essential Features:
+- Google User Auth
+- Send and receive text using a form
+- 
+### Extra Features:
+- Timestamps
+- Sticker and image sending
+- 
+### Stretch Features: 
+- Group messaging
+- User Blocking
+- React to a message using emojis
 
 ## WireFrames:
 
