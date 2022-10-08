@@ -29,13 +29,14 @@ Milestones: Divide your work into parts - the most essential features for your M
 
 ## WireFrames:
 
-![Screenshot (251)](https://user-images.githubusercontent.com/109836001/194652026-0fc8d12a-9bf3-4077-9204-d16a82982b0f.png)
+![Backend Wire Frames](https://user-images.githubusercontent.com/109836001/194652026-0fc8d12a-9bf3-4077-9204-d16a82982b0f.png)
 
-![Screenshot (252)](https://user-images.githubusercontent.com/109836001/194678758-04b88432-8581-40bf-8400-18d9d6ed64f4.png)
+![Home Page](https://user-images.githubusercontent.com/109836001/194678758-04b88432-8581-40bf-8400-18d9d6ed64f4.png)
 
-![Screenshot (250) (1)](https://user-images.githubusercontent.com/109836001/194647430-4f1c91d5-7018-41f2-81da-1258fa5af5e5.png)
+![Index Route](https://user-images.githubusercontent.com/109836001/194647430-4f1c91d5-7018-41f2-81da-1258fa5af5e5.png)
 
-![Screenshot (253)](https://user-images.githubusercontent.com/109836001/194679471-a3e11460-da4b-4479-a243-4d0de9ceec57.png)
+![404 Page](https://user-images.githubusercontent.com/109836001/194680491-4480baf0-c704-4745-92a2-50b713589eab.png)
+
 
 
 
