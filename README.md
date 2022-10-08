@@ -35,4 +35,8 @@ Milestones: Divide your work into parts - the most essential features for your M
 
 ![Screenshot (250) (1)](https://user-images.githubusercontent.com/109836001/194647430-4f1c91d5-7018-41f2-81da-1258fa5af5e5.png)
 
+![Screenshot (253)](https://user-images.githubusercontent.com/109836001/194679471-a3e11460-da4b-4479-a243-4d0de9ceec57.png)
+
+
+
 
