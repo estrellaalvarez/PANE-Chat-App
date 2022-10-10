@@ -14,7 +14,7 @@ Data Models: Draw out the models and any associations for your project in an ent
 Milestones: Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration.
 
 ### Essential Features:
-- Google User Auth
+- (Google) User Auth
 - Send and receive text messages to users using a form
 
 
