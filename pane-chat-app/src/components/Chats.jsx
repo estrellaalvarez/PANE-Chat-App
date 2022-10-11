@@ -2,7 +2,12 @@ import React from 'react'
 
 const Chats = () => {
     return (
-        <div>Chats</div>
+        <div className='chats'>
+            <div className='messages'>
+                <h3>User Name</h3>
+                <p>Hi there</p>
+            </div>
+        </div>
     )
 }
 

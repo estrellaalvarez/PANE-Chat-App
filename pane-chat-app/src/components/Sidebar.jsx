@@ -1,8 +1,13 @@
 import React from 'react'
+import Nav from './Nav'
+import Chats from './Chats'
 
 const Sidebar = () => {
     return (
-        <div>Sidebar</div>
+        <div className='sidebar'>
+            <Nav />
+            <Chats />
+        </div>
     )
 }
 

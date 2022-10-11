@@ -6,19 +6,15 @@ import Chat from '../components/Chat'
 import Chats from '../components/Chats'
 import Message from '../components/Message'
 import Input from '../components/Input'
+import '../App.css';
 
 
 const Dashboard = () => {
     return (
         <div className='dash'>
-            <div className='conatiner'>
-                <Nav />
-                <Search />
+            <div className='container'>
                 <Sidebar />
                 <Chat />
-                <Chats />
-                <Message />
-                <Input />
             </div>
         </div>
     )
