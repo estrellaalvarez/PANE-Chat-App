@@ -2,7 +2,9 @@ body {
   background-color: lavender;
 }
 .dash {
-  background-color: antiquewhite;
+  background-image: url("https://i.imgur.com/nvDhd9D.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -47,4 +49,46 @@ backdrop-filter: blur(12.9px);
 -webkit-backdrop-filter: blur(12.9px);
 height: 60px;
 padding: 20px;
+}
+
+.chat-nav {
+  background: rgba(138, 138, 138, 0.15);
+border-radius: 20px 20px 0px 0px;
+backdrop-filter: blur(12.9px);
+-webkit-backdrop-filter: blur(12.9px);
+height: 60px;
+padding: 20px;
+}
+
+.messages {
+  overflow: scroll;
+}
+
+.message {
+  padding: 10px;
+  background: rgba(78, 78, 78, 0.15);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(12.9px);
+-webkit-backdrop-filter: blur(12.9px);
+border: 1px solid rgba(138, 138, 138, 0.55);
+max-width: 50%;
+max-width: max-content;
+}
+.message + .owner {
+    flex-direction: row-reverse;
+}
+
+.input {
+  /* From https://css.glass */
+background: rgba(78, 78, 78, 0.15);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(12.9px);
+-webkit-backdrop-filter: blur(12.9px);
+border: 1px solid rgba(138, 138, 138, 0.55);
+height: 40px;
+margin: 70px;
+padding: 10px;
+transform: translate(0%, 570%);
 }

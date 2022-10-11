@@ -6,6 +6,18 @@ const Chats = () => {
             <div className='messages'>
                 <h3>User Name</h3>
                 <p>Hi there</p>
+                <h3>User Name</h3>
+                <p>Hi there</p>
+                <h3>User Name</h3>
+                <p>Hi there</p>
+                <h3>User Name</h3>
+                <p>Hi there</p>
+                <p>Hi there</p>
+                <h3>User Name</h3>
+                <p>Hi there</p>
+                <h3>User Name</h3>
+                <p>Hi there</p>
+                <p>Hi there</p>
             </div>
         </div>
     )
